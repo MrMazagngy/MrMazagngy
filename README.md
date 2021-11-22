@@ -3,7 +3,7 @@
 MrMazagngy/MrMazagngy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hey 👋, I'm Maikel</h1>
+<h1 align="center">Hey 👋, I'm Maikel Bastawrous</h1>
 <h3 align="center">A passionate developer from Egypt , Currently pursuing Master's in AI & Big Data</h3>
 
 - 🔭 I’m currently working on **Stock Price Prediction**
